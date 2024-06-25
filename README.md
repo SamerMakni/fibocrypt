@@ -9,7 +9,7 @@ You can install fibo_crypt from PyPI using pip:
 `pip install fibo_crypt`
 ## Usage
 
-Here's an example of how to use the package:
+Here's how to use my package:
 
 ```python
 import fibo_crypt
