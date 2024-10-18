@@ -1,6 +1,6 @@
 # Fibo Crypt
 
-fibo_crypt is a Python package that provides encryption and decryption functionality using the Fibonacci sequence. This was made for as a project for MSc class **Do not expect any good exncryption out of this**
+fibo_crypt is a Python package that provides encryption and decryption functionality using the Fibonacci sequence. This was made for as a project for MSc class **!!Do not expect any good encryption out of this**
 
 ## Installation
 
